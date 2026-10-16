@@ -1,0 +1,1 @@
+Generated using the built-in image-generation tool. Prompt: cinematic fantasy stone gateway with a magical admission ward, two admitted adventurers and one waiting outside, dark teal and muted gold; title SERVER WHITELIST, subtitle Enshrouded, footer Concept artwork; no ESM branding and no fake gameplay UI. Promotional illustration, not a screenshot.

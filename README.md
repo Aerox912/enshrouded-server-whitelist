@@ -2,6 +2,8 @@
 
 Allow only listed Steam accounts into your Windows dedicated server. No client mod required.
 
+[Download on Nexus Mods](https://www.nexusmods.com/enshrouded/mods/155) | [GitHub release](https://github.com/Aerox912/enshrouded-server-whitelist/releases/tag/v1.0.0)
+
 Tested on Enshrouded 1.0 dedicated build **25967645**. Other builds and Linux/Proton are not verified. Unsupported binaries refuse startup.
 
 ## Install
@@ -38,3 +40,4 @@ Default tests cover policy only. For all eight suites, configure ADMISSION_SERVE
 Version 1.0.0 packages the unchanged tested r5 DLL and paired launcher. Eight offline suites passed. Live testing verified allowed entry, two rejected retries and a count returning to zero. Coexistence with other native-hook mods needs separate testing.
 
 Technical filenames retain esm_admission for compatibility. Copyright 2026 Aerox912, MIT. Unofficial mod; Enshrouded belongs to Keen Games.
+
