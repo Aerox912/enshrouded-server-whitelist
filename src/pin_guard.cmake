@@ -1,0 +1,5 @@
+if(NOT EXISTS "${INPUT}")
+ message(FATAL_ERROR "Built admission DLL is missing")
+endif()
+file(SHA256 "${INPUT}" digest)
+file(WRITE "${OUTPUT}" "#pragma once\ninline constexpr char expected_guard_hash[]=\"${digest}\";\n")
